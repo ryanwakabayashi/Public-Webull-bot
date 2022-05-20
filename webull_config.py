@@ -1,0 +1,5 @@
+EMAIL = 'email@email.com'
+PASSWORD = 'Password'
+QUESTION_ID = 'your question ID'
+QUESTION_ANSWER = 'your question answer'
+TRADING_PIN = 'your trading pin'
